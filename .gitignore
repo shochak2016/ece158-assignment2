@@ -1,4 +1,5 @@
-.gitignore
-
+venv/
+data/
+*.pt
 df_ready.csv
 bp.csv
