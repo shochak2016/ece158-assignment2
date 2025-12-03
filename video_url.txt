@@ -1,1 +1,1 @@
-When we finish the presentation, replace this text with a single line, which is a path to a shared mp4 file on google drive or a youtube link. It should probably look like: https://drive.google.com/file/d/FILE_ID/view?usp=drive_link or https://www.youtube.com/watch?v=_QgIj7eNYAM
+https://drive.google.com/file/d/1FyERvsECyfVDHmISsEiP3BVl5nt8rXRA/view?usp=sharing
